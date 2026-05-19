@@ -2,6 +2,8 @@
 
 This repository accompanies my Substack article about spending the final 45 days of the Kaggle **AI Mathematical Olympiad Progress Prize 3 (AIMO3)** competition trying to understand, evaluate, and improve a public notebook built around `gpt-oss-120b`.
 
+Substack article - https://ramkumarramasamy.substack.com/p/what-45-days-inside-a-kaggle-ai-math
+
 The main theme of the project is straightforward:
 
 - Start from a strong public `gpt-oss-120b` notebook already solving many problems.
